@@ -11,3 +11,11 @@
 #### 2.1 富文本编辑器
 
 #### 2.2 活动统计
+
+### 开发日志
+
+#### 虚拟环境
+```bash
+source build/bin/activate
+python test.py
+```
